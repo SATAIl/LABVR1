@@ -245,8 +245,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_XRHandTrackingEvents: {fileID: 639686448}
   m_HandMeshRenderer: {fileID: 1785337192100647894}
-  m_ShowMeshWhenTrackingIsAcquired: 0
-  m_HideMeshWhenTrackingIsLost: 0
+  m_ShowMeshWhenTrackingIsAcquired: 1
+  m_HideMeshWhenTrackingIsLost: 1
 --- !u!4 &1448281546621806375 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1325600225764489521, guid: bf7151579c38e2a44be94ba8773876c1, type: 3}
